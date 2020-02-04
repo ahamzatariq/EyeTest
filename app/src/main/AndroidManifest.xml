@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hamza.eyetest">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/pepe"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/pepe"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Menu">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".levelOne" />
+        <activity android:name=".levelTwo" />
+        <activity android:name=".Final" />
+        <activity android:name=".levelThree" />
+        <activity android:name=".levelFour" />
+        <activity android:name=".levelFive" />
+        <activity android:name=".levelSeven" />
+        <activity android:name=".levelSix" />
+        <activity android:name=".levelEight" />
+        <activity android:name=".levelNine" />
+        <activity android:name=".levelTen" />
+        <activity android:name=".levelEleven" />
+        <activity android:name=".levelTwelve" />
+        <activity android:name=".levelThirteen" />
+        <activity android:name=".levelFourteen" />
+        <activity android:name=".levelFifteen" />
+        <activity android:name=".levelSixteen"/>
+        <activity android:name=".levelSeventeen"/>
+        <activity android:name=".levelEighteen"/>
+        <activity android:name=".levelNineteen"/>
+        <activity android:name=".levelTwenty"/>
+        <activity android:name=".Rules" />
+    </application>
+
+</manifest>

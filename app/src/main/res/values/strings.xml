@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EyeTest</string>
+    <string name="title">Check your eye color sensitivity</string>
+    <string name="cube">Find the odd one out</string>
+    <string name="start">Start</string>
+    <string name="menu">Menu</string>
+    <string name="score">Your Score: </string>
+    <string name="how">How strong is your eyesight?</string>
+    <string name="strong">20 pilot level</string>
+    <string name="normal">14-19 normal</string>
+    <string name="weak">8-13 weak eyes</string>
+    <string name="help">0-7 God help you</string>
+    <string name="rules">Rules</string>
+    <string name="rule1">There is an odd colored box in each level.</string>
+    <string name="rule2">You score a point if you choose the correct box.</string>
+    <string name="rule3">If you choose any other box, you DO NOT get a point.</string>
+    <string name="rule4">Happy Choosing!</string>
+    <color name="bg">#F26525</color>
+    <color name="startBtn">#FF9900</color>
+    <color name="startClr">#666666</color>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
